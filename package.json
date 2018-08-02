@@ -1,6 +1,6 @@
 {
   "name": "graphicsmodule",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "WAI-ARIA Graphics Module assembler library",
   "main": "lib/index.js",
   "scripts": {
