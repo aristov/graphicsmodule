@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/aristov/graphicsmodule/issues"
   },
-  "homepage": "https://github.com/aristov/graphicsmodule#readme"
+  "homepage": "https://github.com/aristov/graphicsmodule#readme",
+  "dependencies": {
+    "ariamodule": "github:aristov/ariamodule"
+  }
 }
