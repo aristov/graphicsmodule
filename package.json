@@ -1,0 +1,26 @@
+{
+  "name": "graphicsmodule",
+  "version": "0.0.0",
+  "description": "WAI-ARIA Graphics Module assembler library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aristov/graphicsmodule.git"
+  },
+  "keywords": [
+    "WAI-ARIA",
+    "Graphics",
+    "graphics-document",
+    "graphics-object",
+    "graphics-symbol"
+  ],
+  "author": "Vyacheslav Aristov <vv.aristov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aristov/graphicsmodule/issues"
+  },
+  "homepage": "https://github.com/aristov/graphicsmodule#readme"
+}
