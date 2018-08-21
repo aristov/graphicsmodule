@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/aristov/graphicsmodule#readme",
   "dependencies": {
-    "ariamodule": "github:aristov/ariamodule#v0.2",
+    "ariamodule": "github:aristov/ariamodule",
     "svgmodule": "github:aristov/svgmodule"
   }
 }
